@@ -1,0 +1,146 @@
+.topcontainer{
+  padding-top: 150px;
+  background-color: #F9E4D4;
+  position: relative;
+}
+.middle-container{
+  background-color: #EDE6DB;
+  padding: 100px 0;
+}
+.footer-link{
+  color: #9C0F48;
+  font-family: Montserrat,sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.bottom-container{
+  background-color: #D67D3E;
+  padding: 50px 0 20px;
+}
+.mountain{
+  width:auto;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+/* .bottomcontainer{
+
+} */
+p{
+line-height: 2;
+}
+.me{
+  border-radius: 50%;
+  width:20%;
+}
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family:Merriweather,serif;
+}
+.programmer{
+  margin: 0 auto 0 auto;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+h1{
+  color: #9C0F48;
+  margin: 50px auto 0 auto;
+  font-family: Sacramento,serif;
+  font-size: 5.625rem;
+  line-height: 2rem;
+}
+h2{
+  padding-bottom: 10px;
+  color: #9C0F48;
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: Montserrat,serif;
+}
+hr{
+  border: dotted 6px #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.contact{
+  width: 50%;
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #e89b15;
+  background-image: -webkit-linear-gradient(top, #e89b15, #e84112);
+  background-image: -moz-linear-gradient(top, #e89b15, #e84112);
+  background-image: -ms-linear-gradient(top, #e89b15, #e84112);
+  background-image: -o-linear-gradient(top, #e89b15, #e84112);
+  background-image: linear-gradient(to bottom, #e89b15, #e84112);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat ,serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #D67D3E;
+  background-image: -webkit-linear-gradient(top, #D67D3E, #821a08);
+  background-image: -moz-linear-gradient(top, #D67D3E, #821a08);
+  background-image: -ms-linear-gradient(top, #D67D3E, #821a08);
+  background-image: -o-linear-gradient(top, #D67D3E, #821a08);
+  background-image: linear-gradient(to bottom, #D67D3E, #821a08);
+  text-decoration: none;
+}
+
+h3{
+  color: #D67D3E;
+  font-size: 1.6rem;
+  font-family: Montserrat,serif;
+}
+a{
+  color: #D67D3E;
+}
+.tcloud{
+  position: absolute;
+  top:50px;
+  right: 300px;
+  width: 15%
+}
+.bcloud{
+  position: absolute;
+  left:400px;
+  top: 300px;
+  width: 15%
+}
+.dev{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.garden{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.books{
+  margin-right: 30px;
+  float: left;
+  width: 25%;
+}
+.skill-row{
+  text-align: left;
+  width:50%;
+  margin:100px auto 100px auto;
+}
